@@ -7,6 +7,7 @@ AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsit
 O Dataset está sofrendo atualizações constantemente, na ultima atualização foram usadas ```1728``` imagens, algo ainda muito pequeno para que aja resultados precisos.
 
 # Objetivos
+[result](preview.gif)
 
 1. Detecção de proximidade<br>
   1.1 Detectar veículos
