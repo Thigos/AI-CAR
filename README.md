@@ -6,6 +6,7 @@ AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsit
 - [CUDA 9.1](https://developer.nvidia.com/cuda-downloads)<br>
 - [OpenCV 3.4.0](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.0/opencv-3.4.0-vc14_vc15.exe/download) ou [OpenCV 2.4.13](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.13/opencv-2.4.13.2-vc14.exe/download)<br>
 - GPU com CC> = 2.0 se você usar CUDA, ou GPU CC> = 3.0 se você usar cuDNN + CUDA: https://en.wikipedia.org/wiki/CUDA#GPUs_supported
+- TensorFlow == 1.13.2
 
 # Último Resultado
 > ![result](preview.gif)<br>
