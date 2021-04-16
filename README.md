@@ -24,3 +24,8 @@ O Dataset está sofrendo atualizações constantemente, na ultima atualização 
 3. Detectar fadiga<br>
   3.1 Analisar tempo entre piscadas dos olhos<br>
   3.2 Analisar quanto tempo o motorista está dirigindo 
+
+# .data-00000-of-00001
+
+Download [tiny-yolo-voc-2c-6750.data-00000-of-00001](https://drive.google.com/file/d/10AAnxRmy3NHelep8BzSEeoyE1DqK_728/view?usp=sharing)
+Coloque o ```tiny-yolo-voc-2c-6750.data-00000-of-00001``` dentro da pasta ```ckpt```
