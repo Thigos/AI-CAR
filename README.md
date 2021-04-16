@@ -27,5 +27,5 @@ O Dataset está sofrendo atualizações constantemente, na ultima atualização 
 
 # .data-00000-of-00001
 
-Download [tiny-yolo-voc-2c-6750.data-00000-of-00001](https://drive.google.com/file/d/10AAnxRmy3NHelep8BzSEeoyE1DqK_728/view?usp=sharing)
+Download [tiny-yolo-voc-2c-6750.data-00000-of-00001](https://drive.google.com/file/d/10AAnxRmy3NHelep8BzSEeoyE1DqK_728/view?usp=sharing)<br>
 Coloque o ```tiny-yolo-voc-2c-6750.data-00000-of-00001``` dentro da pasta ```ckpt```
