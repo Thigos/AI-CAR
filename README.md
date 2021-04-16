@@ -2,7 +2,7 @@
 AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsito a partir de diversas detecções utilizando Machine Learning e Deep Learning.
 
 - [Requisitos](#requisitos)
-- [Último Resultado](##último-resultado)
+- [Último Resultado](#último-resultado)
 - [DATASET](#dataset)
 - [Objetivos](#objetivos)
 - [.data-00000-of-00001](#data-00000-of-00001)
