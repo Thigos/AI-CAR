@@ -1,6 +1,12 @@
 # AI-CAR
 AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsito a partir de diversas detecções utilizando Machine Learning e Deep Learning.
 
+- [Requisitos](#requisitos)
+- [Último Resultado](#último-resultado)
+- [DATASET](#dataset)
+- [Objetivos](#objetivos)
+- [.data-00000-of-00001](#data-00000-of-00001)
+
 # Requisitos
 - Linux GCC>=4.9 ou [Windows MS Visual Studio 2015 (v140)](https://go.microsoft.com/fwlink/?LinkId=532606&clcid=0x409)<br>
 - [CUDA 9.1](https://developer.nvidia.com/cuda-downloads)<br>
@@ -17,7 +23,7 @@ O Dataset está sofrendo atualizações constantemente, na ultima atualização 
 
 # Objetivos
 1. Detecção de proximidade<br>
-  1.1 Detectar veículos
+  1.1 Detectar veículos<br>
   1.2 Detectar distância dos carros
 2. Detectar mudanças de faixa<br>
   2.1 Detectar faixas na estrada
