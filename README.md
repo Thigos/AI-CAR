@@ -15,7 +15,7 @@ AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsit
 
 # Último Resultado
 > ![result](preview.gif)<br>
- ```Versão 0.1```
+ ```Versão 0.2```
  
 # DATASET
 O Dataset está sofrendo atualizações constantemente, na ultima atualização foram usadas ```1728``` imagens, algo ainda muito pequeno para que aja resultados precisos.
