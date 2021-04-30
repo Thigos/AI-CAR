@@ -23,7 +23,7 @@ O Dataset está sofrendo atualizações constantemente, na ultima atualização 
 
 # Objetivos
 1. Detecção de proximidade<br>
-  1.1 Detectar veículos
+  1.1 Detectar veículos<br>
   1.2 Detectar distância dos carros
 2. Detectar mudanças de faixa<br>
   2.1 Detectar faixas na estrada
