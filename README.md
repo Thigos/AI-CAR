@@ -5,7 +5,6 @@ AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsit
 - [Último Resultado](#último-resultado)
 - [DATASET](#dataset)
 - [Objetivos](#objetivos)
-- [.data-00000-of-00001](#data-00000-of-00001)
 
 # Requisitos
 - Linux GCC>=4.9 ou [Windows MS Visual Studio 2015 (v140)](https://go.microsoft.com/fwlink/?LinkId=532606&clcid=0x409)<br>
@@ -31,7 +30,3 @@ O Dataset está sofrendo atualizações constantemente, na ultima atualização 
   3.1 Analisar tempo entre piscadas dos olhos<br>
   3.2 Analisar quanto tempo o motorista está dirigindo 
 
-# .data-00000-of-00001
-
-Download [tiny-yolo-voc-2c-6750.data-00000-of-00001](https://drive.google.com/file/d/10AAnxRmy3NHelep8BzSEeoyE1DqK_728/view?usp=sharing)<br>
-Coloque o ```tiny-yolo-voc-2c-6750.data-00000-of-00001``` dentro da pasta ```ckpt```
