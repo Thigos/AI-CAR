@@ -19,3 +19,13 @@ AI-CAR, um projeto de IA que tem como objetivo melhorar a segurança no trânsit
  
 # DATASET
 O Dataset está sofrendo atualizações constantemente, na ultima atualização foram usadas ```1728``` imagens, algo ainda muito pequeno para que aja resultados precisos.
+
+# Citation
+```
+@article{trieu2018darkflow,
+  title={Darkflow},
+  author={Trieu, Trinh Hoang},
+  journal={GitHub Repository. Available online: https://github. com/thtrieu/darkflow (accessed on 21 May 2021)},
+  year={2018}
+}
+```
